@@ -35,13 +35,15 @@ $ python generate.py > magna.css
 
 This will generate a minifed css file:
 ```
-$ python generate.py -m > magna.css
+$ python generate.py -m > magna.min.css
 ```
 
 This will generate a Sass file:
 ```
-$ python generate.py -sass > magna.css
+$ python generate.py -sass > magna.sass
 ```
+
+Now just upload it to your server, and link to it from your HTML.
 
 ## Inspiration
 
