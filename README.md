@@ -20,11 +20,11 @@ But imagine a world where none of this is necessary. Imagine a world, where, to 
 
 With *Magna.css*, you no longer have to imagine this world. You can live with it *right now*.
 
-Simply download the `generator.py`, generate your `magna.css` file, and start saving time and money.
+Simply download the `generator.py`, generate the `magna.css` file, and start saving time and money.
 
 ## Usage
 
-Before you're able to use `Magna.css`, you first have to generate your own CSS-file with the `generator.py`-Script.
+Before you're able to use *Magna.css*, you first have to generate your own CSS-file with the `generator.py`-Script.
 
 There are some arguments to change the output:
 
