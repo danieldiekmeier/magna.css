@@ -47,4 +47,4 @@ Now just upload it to your server, and link to it from your HTML.
 
 ## Inspiration
 
-*Magna.css* is heavily inspired by the great work the Tachyon-Team does with their CSS-Framework. Just look at this marvelous piece of code: https://www.npmjs.com/package/tachyons-position
+*Magna.css* is heavily inspired by the great work the Tachyons-Team does with their CSS-Framework. Just look at this marvelous piece of code: https://www.npmjs.com/package/tachyons-position
