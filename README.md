@@ -1,3 +1,5 @@
+# Magna.css
+
 *Magna* is the latin word for *great*. Because using *Magna.css* is a great idea. Because it reduces the amount of coding you have to do. Because it's so great.
 
 ## Introduction
