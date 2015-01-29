@@ -4,7 +4,7 @@
 
 ## Introduction
 
-As a front end developer, you probably use colors for text all the time. This is a very tedious process, as you have to add all these hex codes to the CSS.
+As a front end developer, you probably use colors for text all the time. This is a very tedious process, as you have to add all these pesky hex codes to your CSS.
 
 ```
 .element {
