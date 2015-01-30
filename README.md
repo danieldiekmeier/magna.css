@@ -18,33 +18,31 @@ But imagine a world where none of this is necessary. Imagine a world, where, to 
 <h1 class="color-b00bi3">So refreshing!</h1>
 ```
 
-With *Magna.css*, you no longer have to imagine this world. You can live with it *right now*.
+With *Magna.css*, you no longer have to imagine this world. You can live in it *right now*.
 
-Simply download the `generator.py`, generate the `magna.css` file, and start saving time and money.
+Simply download `generator.py`, generate your very own `magna.css`, and start saving time and money.
 
 ## Usage
 
-Before you're able to use *Magna.css*, you first have to generate your own CSS-file with the `generator.py`-Script.
+Before you're able to use *Magna.css*, you first have to generate your own CSS file with the `generator.py` script.
 
-There are some arguments to change the output:
-
-This will generate a plain css file:
+Want a vanilla CSS file? Use this:
 ```
 $ python generate.py > magna.css
 ```
 
-This will generate a minifed css file:
-```
-$ python generate.py -m > magna.min.css
-```
-
-This will generate a Sass file:
+Want a syntactically awesome style sheet? Use this:
 ```
 $ python generate.py -sass > magna.sass
+```
+
+Want 100% of the colors with only 76.3138625% of the file size? Then this is for you:
+```
+$ python generate.py -m > magna.min.css
 ```
 
 Now just upload it to your server, and link to it from your HTML.
 
 ## Inspiration
 
-*Magna.css* is heavily inspired by the great work the Tachyons-Team does with their CSS-Framework. Just look at this marvelous piece of code: https://www.npmjs.com/package/tachyons-position
+*Magna.css* is heavily inspired by the great work the TACHYONS team does with their CSS framework. Just look at this marvelous piece of code: https://www.npmjs.com/package/tachyons-position
